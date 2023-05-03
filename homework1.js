@@ -176,7 +176,7 @@ let calc = metr/1000;
 //let calcKm = calc/100;
 //console.log(calculateKm);
   //if (metr <= 1){
-    console.log(`${metr} ${metr % 10 === 1 ? 'метр' : metr % 10 === 0 ? 'метрів' : 'метра'} це ${calc} ${calc % 10 === 1 ? 'кілометр' : calc % 10 === 0 ? 'кіломертрів' : 'кілометра'}`);
+    console.log(`${metr} ${metr % 10 === 1 ? 'метр' : metr % 10 === 0 ? 'метрів' : 'метри'} це ${calc} ${calc % 10 === 1 ? 'кілометр' : calc % 10 === 0 ? 'кіломертрів' : 'кілометри'}`);
     //        console.log(`${metr} метр це ${calc} кілометра`)
   //} 
 //   } else if (metr >= 2 && metr <=4){
