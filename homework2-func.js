@@ -207,3 +207,4 @@ console.log(calc(10));
 console.log(calc(21));
 console.log(calc(55));
 console.log(calc(101));
+console.log(calc(2000));
