@@ -20,10 +20,10 @@ sum(8, 12)//коли викликаю то a, b - аргументи
 console.log(sum(8, 12));//if return is present
 //------------------------------------
 //anonimous function
-function(a, b){
-    let c = a + b;
-    console.log(c);
-}
+// function(a, b){
+//     let c = a + b;
+//     console.log(c);
+// }
 
 const anonimousFunc = function(a, b){
     let c = a + b;
